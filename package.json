@@ -9,7 +9,7 @@
     "start": "node __ramber__/build"
   },
   "dependencies": {
-    "body-parser": "^1.20.3",
+    "body-parser": "^1.20.4",
     "compression": "^1.7.1",
     "lorem-ipsum": "^2.0.8",
     "polka": "next",
