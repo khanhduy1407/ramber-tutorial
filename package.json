@@ -29,7 +29,7 @@
     "@rollup/plugin-url": "^5.0.0",
     "hamber": "^3.59.2",
     "ramber": "^0.29.4",
-    "rollup": "^2.3.4",
+    "rollup": "^2.80.0",
     "rollup-plugin-hamber": "^7.0.0",
     "rollup-plugin-terser": "^7.0.0"
   }
